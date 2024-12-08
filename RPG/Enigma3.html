@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Enigma 3 - Cifra de Vigenère</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Enigma 3</h1>
+        <p class="intro-text">Ouvindo os grunidos do demônio chegando perto, ele entra rapidamente pela porta, 
+        <p class="intro-text">Depois de  a segunda porta Pedrinho se ve numa sala com uma tabela no quadro e uma porta escrito saida.</p>
+        <p class="intro-text">Acima da tabela ta escrito *A temida Cifra de Vigenère*</p>
+        <p class="intro-text">Use a palavra-chave correta para descobrir a mensagem secreta e abrir a última porta.</p>
+        <p class="intro-text">*Mensagem Criptografada*: <strong>drmfr</strong></p>
+        <p class="intro-text">*Dica*: Use a tabela abaixo e a palavra-chave *"discr"* para decifrar a mensagem.</p>
+        <p class="intro-text">Exemplo: cripto-> e chave-> e  (4-4+26) %26=0 (a)</p>
+        <div class="vigenere-container">
+            <img src="tabela.jpg" alt="Tabela da Cifra de Vigenère">
+        </div>
+        <div class="input-container">
+            <label for="user-input">Digite a mensagem decifrada:</label>
+            <input type="text" id="user-input" placeholder="Resposta">
+            <button id="submit-answer">Enviar</button>
+        </div>
+        <p id="result-message"></p>
+        <p id="attempts-left">Tentativas restantes: 2</p>
+    </div>
+    <script src="script3.js"></script>
+</body> 
+</html>

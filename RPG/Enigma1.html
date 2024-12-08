@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Enigma 1 - Cifra de César</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Enigma 1</h1>
+        <p class="intro-text">Pedrinho está sendo perseguido e acha uma das porta que precisa decifrar um código em Cifra de César para continuar sua fuga.</p>
+        <p class="intro-text">*Mensagem Criptografada*: <strong>khoor</strong></p>
+        <p class="intro-text">*Dica*: Use a cifra de César para decifrar a mensagem. O deslocamento da cifra é de 3.</p>
+        <div>
+            <img src="alfabeto.jpg" alt="">
+        </div>
+        <div class="input-container">
+            <label for="user-input">Digite a mensagem decifrada:</label>
+            <input type="text" id="user-input" placeholder="Resposta">
+            <button id="submit-answer">Enviar</button>
+        </div>
+        <p id="result-message"></p>
+        <p id="attempts-left">Tentativas restantes: 2</p>
+    </div>
+    <script src="script.js"></script>
+</body> 
+</html>
