@@ -34,14 +34,14 @@ h1 {
     margin-bottom: 20px;
 }
 
-.vigenere-container {
+.matriz-container {
     width: 100%;
     margin: 20px 0;
     display: flex;
     justify-content: center; 
 }
 
-.vigenere-container img {
+.matriz-container img {
     width: 100%;
     max-width: 500px;
     height: auto;
