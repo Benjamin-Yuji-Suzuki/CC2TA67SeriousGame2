@@ -1,5 +1,5 @@
 let tent = 2;
-const resposta3 = "ajuda"; 
+const resposta3 = "algoritmo"; 
 
 function Enigma3() {
     const userInput = document.getElementById("user-input").value.trim();
