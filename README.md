@@ -1,7 +1,7 @@
 # RPG de Criptografia - CriptoDevil
 
 **Descrição**:  
-Este é um jogo de aventura interativo onde o jogador precisa resolver enigmas de criptografia para escapar de um demônio que o persegue no colégio. O jogo contém três enigmas baseados em diferentes tipos de criptografia: **Cifra de César** e **Cifra de Vigenère**. O jogador tem 2 tentativas para resolver cada enigma, caso contrário, o demônio o pegará.
+Este é um jogo de aventura interativo onde o jogador precisa resolver enigmas de criptografia para escapar de um demônio que o persegue no colégio. O jogo contém três enigmas baseados em diferentes tipos de criptografia: **Cifra de César** **Cifra Invisível/alfabética e **Cifra de Matriz**. O jogador tem 2 tentativas para resolver cada enigma, caso contrário, o demônio o pegará.
 
 ---
 
@@ -18,7 +18,7 @@ Este é um jogo de aventura interativo onde o jogador precisa resolver enigmas d
    O jogador deve resolver um código criptografado usando a **Cifra de César**. O código criptografado é uma palavra deslocada em 3 posições. O jogador deve usar esse deslocamento para encontrar a palavra correta.
 
 2. **Enigma 2: Cifra Invisível**
-   o jogador deve seguir as dicas para revelar a Cifra e decifra-lá
+   o jogador deve seguir as dicas para revelar a Cifra e decifra-lá.
    
 
 4. **Enigma 3: Cifra de Matriz**  
