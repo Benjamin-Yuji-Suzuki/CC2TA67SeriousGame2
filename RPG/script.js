@@ -1,5 +1,5 @@
 let tent = 2;
-const resposta1 = "hello"; 
+const resposta1 = "integridade"; 
 
 function Enigma1() {
     const userInput = document.getElementById("user-input").value.trim().toLowerCase();
