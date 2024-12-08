@@ -17,11 +17,12 @@ Este é um jogo de aventura interativo onde o jogador precisa resolver enigmas d
 1. **Enigma 1: Cifra de César**  
    O jogador deve resolver um código criptografado usando a **Cifra de César**. O código criptografado é uma palavra deslocada em 3 posições. O jogador deve usar esse deslocamento para encontrar a palavra correta.
 
-2. **Enigma 2:   
+2. **Enigma 2: Cifra Invisível**
+   o jogador deve seguir as dicas para revelar a Cifra e decifra-lá
    
 
-3. **Enigma 3: Cifra de Vigenère**  
-   No terceiro enigma, o jogador deve usar a **Cifra de Vigenère** para decifrar uma mensagem secreta. A chave predefinida é usada com a tabela de Vigenère para resolver o enigma.
+4. **Enigma 3: Cifra de Matriz**  
+   No terceiro enigma, o jogador deve usar uma **Cifra de Matriz** para decifrar uma mensagem secreta.
 
 ---
 
