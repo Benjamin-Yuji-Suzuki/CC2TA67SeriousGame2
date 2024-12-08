@@ -113,3 +113,7 @@ img {
 #restart-game:hover {
     background-color: #45a049;
 }
+
+a{
+    color: transparent;
+}
